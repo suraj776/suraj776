@@ -4,5 +4,5 @@ I'm a back-end developer. i'm currently woking on Laravel(PHP framework). I have
 
 Strong in design and integration with intuitive problem-solving skills. Proficiency in Html,Css, JavaScript, Mysql and PHP.
 
-I have just qulified for #Facebook_Hacker_Cup
+I have just qulified for <strong>Facebook_Hacker_Cup<strong>
 
