@@ -6,3 +6,4 @@ Strong in design and integration with intuitive problem-solving skills. Proficie
 
 I have just qulified for <strong>Facebook_Hacker_Cup<strong>
 
+<a href='https://www.freepik.com/free-photos-vectors/technology'>Technology vector created by freepik - www.freepik.com</a>
