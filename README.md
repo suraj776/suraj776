@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="left" diplay="block" wdth="900px">I'm a back-end developer. i'm currently woking on Laravel(PHP framework). I have just started my career as back-end developer at The knowledge academy.
+<p align="left" wdth="900px">I'm a back-end developer. i'm currently woking on Laravel(PHP framework). I have just started my career as back-end developer at The knowledge academy.
 
 Strong in design and integration with intuitive problem-solving skills. Proficiency in Html,Css, JavaScript, Mysql and PHP.
 
