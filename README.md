@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a back-end developer.<br> I'm currently woking on Laravel(PHP framework).
+I'm a back-end developer.<br> I'm currently woking on Laravel(PHP framework).<br>
 I have just started my career as back-end developer<br> at
 <strong>The knowledge academy</strong>.<br><br>
 Strong in design and integration with intuitive problem-solving skills.
