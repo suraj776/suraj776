@@ -7,7 +7,5 @@ Strong in design and integration with intuitive problem-solving skills. Proficie
 I have just qulified for <strong>Facebook_Hacker_Cup</p>
 
 
-<div class="col-md-5 align-left" height="600px" width="300px">
-  <img src="/2842579.jpg">
-</div>
+  <img src="/2842579.jpg" align="left"  height="600px" width="300px">
 
