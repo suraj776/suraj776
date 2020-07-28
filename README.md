@@ -8,4 +8,4 @@ Proficiency in Html,Css, JavaScript, Mysql and PHP.<br><br>
 
 I have just qulified for <strong>Facebook_Hacker_Cup</p>
 
-  <img src="2842579.jpg" align="right"  height="400px" width="300px">
+  <img src="2842579.jpg" float="right"align="right"  height="400px" width="300px">
