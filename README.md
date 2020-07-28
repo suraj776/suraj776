@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div class="row">
+<div class="container row">
 <div class="col-12 col-md-7 text-center>
 <div align="left"><p>I'm a back-end developer. i'm currently woking on Laravel(PHP framework). I have just started my career as back-end developer at The knowledge academy.
 
