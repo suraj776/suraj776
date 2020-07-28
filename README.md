@@ -1,3 +1,5 @@
+
+<img align="right"  src="2842579.jpg"  height="465px" width="350px">
 ### Hi there 👋
 I'm a back-end developer.<br> I'm currently woking on Laravel(PHP framework).<br>
 I have just started my career as back-end developer<br> at
@@ -8,4 +10,3 @@ Proficiency in Html,Css, JavaScript, Mysql and PHP.<br><br>
 
 I have just qulified for <strong>Facebook_Hacker_Cup</p>
 
-  <img src="2842579.jpg" float="right"align="right"  height="400px" width="300px">
