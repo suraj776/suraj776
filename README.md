@@ -19,7 +19,7 @@ Toxsl Technology Pvt. Ltd.<br/>
 </li>Integrated Payment Gateways like Stripe, Senang Pay, CuroPayment, Digi Wallet.</li>
 <li>	Integrated Cloudflare for multiple video resolution support using JavaScript SDK.</li>
 
-
+</ul>
 
 Web Developer<br/>
 The MSP Training<br/>
@@ -28,22 +28,18 @@ The MSP Training<br/>
 <ul>
 <li>	Worked on an In-house Project ERP system.</li>
 <li>	Tested components and fixed issues.</li>
-
+</u><br/>
 
 <h2>SKILLS</h2>
 
-<h2>LANGUAGES, LIBRARIES & FRAMEWORKS   </h2>               
+<h3>LANGUAGES, LIBRARIES & FRAMEWORKS   </h3>               
     PHP, Yii2,	Laravel, Ajax, JavaScript, jQuery, MySql,	HTML, CSS, Bootstrap,	C++
 	
-<h2> CLOUD SERVICES </h2>
+<h3> CLOUD SERVICES </h3>
     Aws
-<h2> TECHNOLOGIES</h2>
+<h3> TECHNOLOGIES</h3>
     Rest API ,	MVC                               		
- <h2> INDUSTRY KNOWLEDGE</h2>
+ <h3> INDUSTRY KNOWLEDGE</h3>
     Test Driven Development, Design Pattern		
-<h2>DEVELOPMENT TOOLS</h2>
+<h3>DEVELOPMENT TOOLS</h3>
 Eclipse IDE, Vs Code, Lamp, Xampp, Sql Yog,	Linux Systems, Git	
-
-
-I have just qulified for <strong>Facebook_Hacker_Cup</p>
-
