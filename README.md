@@ -33,7 +33,7 @@ The MSP Training<br/>
 <h2>SKILLS</h2>
 
 <h3>LANGUAGES, LIBRARIES & FRAMEWORKS   </h3>               
-    PHP, Yii2,	Laravel, Ajax, JavaScript, jQuery, MySql,	HTML, CSS, Bootstrap,	C++
+    PHP, Yii2,	Laravel, Ajax, JavaScript, jQuery, ReactJS, Nodejs, MongoDb ,MySql,	HTML, CSS, Bootstrap,	C++
 	
 <h3> CLOUD SERVICES </h3>
     Aws
