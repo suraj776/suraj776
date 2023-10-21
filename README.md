@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-<p>I'm a back-end developer.I'm currently woking on YII2(PHP framework).</p>
+<p>I'm a fullstack developer.</p>
 <h2>Experience</h2><br/>
 <strong>Software Developer</strong><br/>
 Globallogic India(Hitachi)<br/>
