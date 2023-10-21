@@ -4,8 +4,8 @@
 ### Hi there 👋
 
 <p>I'm a back-end developer.I'm currently woking on YII2(PHP framework).</p>
-<strong>Experience</strong><br/>
-Software Developer<br/>
+<h2>Experience</h2><br/>
+<strong>Software Developer</strong><br/>
 Globallogic India(Hiachi)<br/>
 2020 – 2022<br/>
 <br>
@@ -15,7 +15,7 @@ Globallogic India(Hiachi)<br/>
 <li>	Worked on integrating o-auth for third party login</li>
 <li>	Integrated payment methods in react-app</li>
 </ul>
-Software Developer<br/>
+<strong>Software Developer</strong><br/>
 Toxsl Technology Pvt. Ltd.<br/>
 2020 – 2022<br/>
 <br>
@@ -31,7 +31,7 @@ Toxsl Technology Pvt. Ltd.<br/>
 
 </ul>
 
-Web Developer<br/>
+<strong>Web Developer</strong><br/>
 The MSP Training<br/>
 2020 - 2020<br/>
 <p>My responsibilities were to learn, implement and evaluate. Used Laravel<p/>
