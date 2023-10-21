@@ -6,8 +6,18 @@
 <p>I'm a back-end developer.I'm currently woking on YII2(PHP framework).</p>
 <strong>Experience</strong><br/>
 Software Developer<br/>
+Globallogic India(Hiachi)<br/>
+2020 – 2022<br/>
+<br>
+<p>My responsibilities are to design, develop and manage the backend and fronend for web and mobile application. I:</p>
+<ul>
+<li>	Implemented react-redux and redux toolkit to increase efficieny of state management in react-app/</li>
+<li>	Worked on integrating o-auth for third party login</li>
+<li>	Integrated payment methods in react-app</li>
+</ul>
+Software Developer<br/>
 Toxsl Technology Pvt. Ltd.<br/>
-2020 – CURRENT<br/>
+2020 – 2022<br/>
 <br>
 <p>My responsibilities are to design, develop and manage the backend of the web and mobile application along with Team management. I:</p>
 <ul>
