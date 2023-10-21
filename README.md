@@ -6,7 +6,7 @@
 <p>I'm a back-end developer.I'm currently woking on YII2(PHP framework).</p>
 <h2>Experience</h2><br/>
 <strong>Software Developer</strong><br/>
-Globallogic India(Hiachi)<br/>
+Globallogic India(Hitachi)<br/>
 2020 – 2022<br/>
 <br>
 <p>My responsibilities are to design, develop and manage the backend and fronend for web and mobile application. I:</p>
