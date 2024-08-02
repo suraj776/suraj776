@@ -43,8 +43,9 @@ The MSP Training<br/>
 <h2>SKILLS</h2>
 
 <h3>LANGUAGES, LIBRARIES & FRAMEWORKS   </h3>               
-    PHP, Yii2,	Laravel, Ajax, JavaScript, jQuery, ReactJS, Nodejs, MongoDb ,MySql,	HTML, CSS, Bootstrap,	C++
-	
+     Ajax, JavaScript, jQuery, ReactJS, Nodejs, PHP, Yii2, Laravel, MongoDb ,MySql, HTML, CSS, Bootstrap, C++
+<h3>Testing Library and frameworks</h3>
+	Jest, React Testing library, PHP Unit, Mockery
 <h3> CLOUD SERVICES </h3>
     Aws
 <h3> TECHNOLOGIES</h3>
