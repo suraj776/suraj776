@@ -17,7 +17,7 @@ Globallogic India(Hitachi)<br/>
 </ul>
 <strong>Software Developer</strong><br/>
 Toxsl Technology Pvt. Ltd.<br/>
-2020 – 2022<br/>
+2022 – Present<br/>
 <br>
 <p>My responsibilities are to design, develop and manage the backend of the web and mobile application along with Team management. I:</p>
 <ul>
