@@ -5,8 +5,95 @@
 
 <p>I'm a fullstack developer.</p>
 <h2>Experience</h2><br/>
-<strong>Software Developer</strong><br/>
-Globallogic India(Hitachi)<br/>
+<strong>s
+	Senior Software Developer</strong><br/>
+<h2>Senior Associate consultant– Infosys</h2>
+<p><strong>Duration:</strong> 2025 – Present</p>
+<p><strong>Domain:</strong> Banking & Financial Services</p>
+
+<ul>
+  <li>
+    Developing and maintaining scalable frontend applications using 
+    <strong>React.js, TypeScript, and modern JavaScript (ES6+)</strong>.
+  </li>
+  
+  <li>
+    Building reusable, modular, and performance-optimized UI components to ensure 
+    consistency and maintainability across large-scale enterprise applications.
+  </li>
+  
+  <li>
+    Integrating frontend systems with secure <strong>REST APIs</strong> and microservices, 
+    ensuring reliable data flow and seamless user experience.
+  </li>
+  
+  <li>
+    Improving application performance by implementing code splitting, lazy loading, 
+    and efficient state management techniques.
+  </li>
+  
+  <li>
+    Collaborating with backend engineers, QA teams, and product managers in an 
+    <strong>Agile development environment</strong> to deliver high-quality features.
+  </li>
+  
+  <li>
+    Following best practices including clean code principles, component-driven architecture, 
+    and version control using <strong>Git</strong>.
+  </li>
+  
+  <li>
+    Contributing to fintech-grade applications where security, reliability, and performance 
+    are critical requirements.
+  </li>
+</ul>
+
+<p>
+<strong>Tech Stack:</strong> React.js, TypeScript, JavaScript, HTML, CSS, REST APIs, Git, Microservices Architecture
+</p>
+
+<h2>Senior Associate Consultant– Infosys</h2>
+<p><strong>Duration:</strong> 2025 – Present</p>
+<p><strong>Domain:</strong> Banking & Financial Services</p>
+
+<ul>
+  <li>
+    Developing and maintaining scalable frontend applications using 
+    <strong>React.js, TypeScript, and modern JavaScript (ES6+)</strong>.
+  </li>
+  
+  <li>
+    Building reusable, modular, and performance-optimized UI components to ensure 
+    consistency and maintainability across large-scale enterprise applications.
+  </li>
+  
+  <li>
+    Integrating frontend systems with secure <strong>REST APIs</strong> and microservices, 
+    ensuring reliable data flow and seamless user experience.
+  </li>
+  
+  <li>
+    Improving application performance by implementing code splitting, lazy loading, 
+    and efficient state management techniques.
+  </li>
+  
+  <li>
+    Collaborating with backend engineers, QA teams, and product managers in an 
+    <strong>Agile development environment</strong> to deliver high-quality features.
+  </li>
+  
+  <li>
+    Following best practices including clean code principles, component-driven architecture, 
+    and version control using <strong>Git</strong>.
+  </li>
+  
+  <li>
+    Contributing to fintech-grade applications where security, reliability, and performance 
+    are critical requirements.
+  </li>
+</ul>
+
+Senior software Engineer -Globallogic India(Hitachi)<br/>
 2022 – Present<br/>
 <br>
 <p>My responsibilities are to design, develop and manage the backend and fronend for web and mobile application. I:</p>
